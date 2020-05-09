@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>text</title>
+	<style>
+		body 
+		{
+			background-color: yellow;
+		}
+		h1
+		{
+			background-color: rgba(200,100,175);
+			color: green;
+			background-color: hsl(380,100%,50%);
+		}
+		h3
+		{
+			background-color: #1100ff;
+			color:pink;
+			background-color: hsla(240,50%,0%,0.3);
+		}
+		p {
+			color: red;
+		}
+	</style>
+</head>
+<body>
+	<h1>Wild animals</h1>
+	<p>wildlife traditionally refers to undomesticated animal species, but has come to include all organisms that grow or live wild in an area without being introduced by humans. Wildlife can be found in all ecosystems.</p>
+	<h3>Nature</h3>
+	<p>Nature  in the broadest sense is the natural, physical, or material world or universe. "Nature" can refer to the phenomena of the physical world, and also to life in general. The study of nature is a large, if not the only, part of science. </p>
+
+</body>
+</html>
