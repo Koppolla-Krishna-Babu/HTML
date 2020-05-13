@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>text</title>
+	<style type="text/css">
+		body {
+			width:750px; 
+			font-family: serif;
+			color:#004455;
+		}
+		h1 {
+			position: absolute;
+			top:0px;
+			left:0px;
+			margin: 0px;
+			z-index: 20;
+		}
+		h3 {
+			position: relative;
+			top: 10px;
+		}
+		.one {
+			width: 200px;
+			border:3px 2px 2px 3px;
+			border-style: solid;
+			border-color: red;
+			padding: 10px;
+			float: right;
+			clear: none;
+		}
+		.two {
+			width:300px;
+			border:3px;
+			border-style: solid;
+			border-color: green;
+			padding:10px;
+			float:left;
+			clear: none;
+		}
+		.three {
+			width:100px;
+			border:3px;
+			border-style: solid;
+			border-color: blue;
+			padding:10px;
+			float:left;
+			clear: left;
+		}
+		.four {
+			width:200px;
+			border:3px;
+			border-style: solid;
+			border-color: darkcyan;
+			padding:10px;
+			float:left;
+	        clear: none;
+	    	}
+
+	</style>
+	
+
+</head>
+<body>
+	<h1>Wild animals</h1>
+	<p class="one">wildlife traditionally refers to undomesticated animal species, but has come to include all organisms that grow or live wild in an area without being introduced by humans. Wildlife can be found in all ecosystems.</p>
+	<h3>Nature</h3>
+	<p class="two">Nature  in the broadest sense is the natural, physical, or material world or universe. "Nature" can refer to the phenomena of the physical world, and also to life in general. The study of nature is a large, if not the only, part of science. </p>
+	<p class="three">Alexander was born in Pella, the ancient capital of Macedonia in July 356 BC. ... Philip was assassinated in 336th BC and Alexander inherited a powerful yet volatile kingdom.</p>
+	<p class="four"> He quickly dealt with his enemies at home and reasserted Macedonian power within Greece. He then set out to conquer the massive Persian Empire .There is nothing impossible to him who will try.</p>
+		
+
+</body>
+</html>
