@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>text</title>
+	<style type="text/css">
+		body {
+			background-color: #33ee66;
+			color:#ff0033;
+			text-align: justify;
+		}
+		h1 ,h3 {
+			font-family: arial ,verdana,serif;
+			color:yellow;
+			text-transform: uppercase;
+			text-shadow: 2px 3px 5px;
+		}
+		.one {
+			border-width:2px 3px 4px 6px;
+			border-style: solid;
+			width:200px;
+			border-color: red;
+			overflow: scroll;
+			padding: 10px;
+			text-align: center;
+			display: block;
+		}
+		.two {
+			width:300px;
+			overflow: hidden;
+			border-width:2px;
+			border-style: dashed;
+			border-color:green;
+			padding: 10px;
+			display: inline-block;
+		}
+		
+	</style>
+
+</head>
+<body>
+	<h1>Wild animals</h1>
+	<p class="one">wildlife traditionally refers to undomesticated animal species, but has come to include all organisms that grow or live wild in an area without being introduced by humans. Wildlife can be found in all ecosystems.</p>
+	<h3>Nature</h3>
+	<p class="two">Nature  in the broadest sense is the natural, physical, or material world or universe. "Nature" can refer to the phenomena of the physical world, and also to life in general. The study of nature is a large, if not the only, part of science. </p>
+
+</body>
+</html>
